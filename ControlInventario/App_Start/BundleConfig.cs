@@ -24,6 +24,7 @@ namespace ControlInventario
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/one-page-wonder.min.css",
                       "~/Content/site.css"));
         }
     }
